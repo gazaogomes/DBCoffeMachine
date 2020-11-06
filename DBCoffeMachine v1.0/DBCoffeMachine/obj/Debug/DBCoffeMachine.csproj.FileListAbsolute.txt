@@ -1,0 +1,10 @@
+C:\Users\gazao\source\repos\DBCoffeMachine\bin\Debug\DBCoffeMachine.exe.config
+C:\Users\gazao\source\repos\DBCoffeMachine\bin\Debug\DBCoffeMachine.exe
+C:\Users\gazao\source\repos\DBCoffeMachine\bin\Debug\DBCoffeMachine.pdb
+C:\Users\gazao\source\repos\DBCoffeMachine\obj\Debug\DBCoffeMachine.csprojAssemblyReference.cache
+C:\Users\gazao\source\repos\DBCoffeMachine\obj\Debug\DBCoffeMachine.Properties.Resources.resources
+C:\Users\gazao\source\repos\DBCoffeMachine\obj\Debug\DBCoffeMachine.csproj.GenerateResource.cache
+C:\Users\gazao\source\repos\DBCoffeMachine\obj\Debug\DBCoffeMachine.csproj.CoreCompileInputs.cache
+C:\Users\gazao\source\repos\DBCoffeMachine\obj\Debug\DBCoffeMachine.exe
+C:\Users\gazao\source\repos\DBCoffeMachine\obj\Debug\DBCoffeMachine.pdb
+C:\Users\gazao\source\repos\DBCoffeMachine\obj\Debug\DBCoffeMachine.Modal.frmMain.resources
